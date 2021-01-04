@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chayen"
+  },
+  "targets": {
+    "chayen": {
+      "hosting": {
+        "where-to-eat-2020": [
+          "where-to-eat-2020"
+        ]
+      }
+    }
+  }
+}
